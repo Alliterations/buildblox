@@ -2,6 +2,8 @@
 
 4/5/2018
 
+-Press Q or E to cycle through blocks
+
 -Bigger map
 
 -New build tools for easy and fast building.
